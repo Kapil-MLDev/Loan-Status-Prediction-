@@ -1,5 +1,3 @@
-# Loan-Status-Prediction-
-Loan Status Prediction using Machine Learning (Random Forest Algorithm)
 # Loan Status Prediction using Machine Learning
 
 ## 📌 Project Overview
@@ -15,19 +13,19 @@ This project focuses on building a machine learning model to predict the **loan 
 
 ## 🧠 Technologies Used
 
-- **Machine Learning Algorithm**: Random Forest Classifier  
-- **Programming Language**: Python  
-- **Libraries**:  
-  - `scikit-learn` (Model building)  
-  - `matplotlib`, `seaborn` (Data visualization)  
-  - `pandas`, `numpy` (Data manipulation)   
-- **Platform for Training**: Google Colab / Jupyter Notebook  
-- **Deployment**: Streamlit  
-- **Environment Manager**: Anaconda Navigator  
-- **Version Control**: GitHub  
+- **Machine Learning Algorithm**: Random Forest Classifier
+- **Programming Language**: Python
+- **Libraries**:
+  - `scikit-learn` (Model building)
+  - `matplotlib`, `seaborn` (Data visualization)
+  - `pandas`, `numpy` (Data manipulation)
+- **Platform for Training**: Google Colab / Jupyter Notebook
+- **Deployment**: Streamlit
+- **Environment Manager**: Anaconda Navigator
+- **Version Control**: GitHub
 
 ## 🚀 How to Run the Project
-   cd Loan-Status-Prediction
-   pip install -r requirements.txt
-   streamlit run app.py
 
+```
+streamlit run app.py
+```
